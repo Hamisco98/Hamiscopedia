@@ -78,13 +78,33 @@ All content here is mirrored to the **[Hamiscopedia Website](https://github.com/
 
 | Folder | Description |
 |---------|-------------|
-| `/website` | Main Hamiscopedia web platform (CMS + Frontend). |
-| `/demos` | Example projects (C#, .NET APIs, architecture samples). |
-| `/design` | Canva/Figma templates, branding assets, and visuals. |
-| `/posts` | Markdown and media files for weekly tips. |
-| `/docs` | Technical documentation, roadmaps, and architecture references. |
+| 🏠 `/website` | Main Hamiscopedia web platform (CMS + Frontend). |
+| 📝 `/posts` | Markdown articles and media files for weekly tips and learning series. |
+| 💡 `/snippets` | Short, focused code examples demonstrating specific concepts or patterns. |
+| ⚙️ `/problem-solving` | Real coding challenges and algorithmic exercises to sharpen logic and problem-solving skills. |
+| 🧩 `/demos` | Practical mini projects and prototypes showing real-world implementations. |
+| 🎨 `/design` | Visual identity, Figma/Canva templates, and all brand assets. |
+| 📘 `/docs` | Technical documentation, architecture references, contribution guides, and project roadmaps. |
+| 🧰 `/extra` | Experimental, research, and external resources that extend or inspire Hamiscopedia. |
 
 ---
+
+### 🧩 Structure Summary
+
+- 🏠 **Website** → The live CMS and front-end powering Hamiscopedia.com.  
+- 📝 **Posts** → The written layer: tutorials, explanations, and weekly tech content.  
+- 💡 **Snippets** → The code foundation: small, runnable examples of individual concepts.  
+- ⚙️ **Problem-Solving** → Algorithmic logic, DSA challenges, and applied coding exercises.  
+- 🧩 **Demos** → The bridge between theory and practice — full, functional mini projects.  
+- 🎨 **Design** → The visual and brand system that gives Hamiscopedia its identity.  
+- 📘 **Docs** → The operational backbone — standards, workflows, and architecture.  
+- 🧰 **Extra** → The research lab — experiments, external resources, and prototype integrations.
+
+> Together, these sections make **Hamiscopedia** a complete ecosystem for learning, building, and sharing technology knowledge.
+
+
+Each section in the repository has its own `README.md` file describing its purpose, structure, and how it connects to the Hamiscopedia ecosystem.
+
 
 ## 🧩 Weekly Publishing Flow
 
