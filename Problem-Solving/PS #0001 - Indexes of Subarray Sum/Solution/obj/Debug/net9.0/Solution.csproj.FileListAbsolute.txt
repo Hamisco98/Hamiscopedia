@@ -1,0 +1,15 @@
+D:\Hamiscopedia\Hamiscopedia\Problem-Solving\PS #0001 - Indexes of Subarray Sum\solution\bin\Debug\net9.0\Solution.exe
+D:\Hamiscopedia\Hamiscopedia\Problem-Solving\PS #0001 - Indexes of Subarray Sum\solution\bin\Debug\net9.0\Solution.deps.json
+D:\Hamiscopedia\Hamiscopedia\Problem-Solving\PS #0001 - Indexes of Subarray Sum\solution\bin\Debug\net9.0\Solution.runtimeconfig.json
+D:\Hamiscopedia\Hamiscopedia\Problem-Solving\PS #0001 - Indexes of Subarray Sum\solution\bin\Debug\net9.0\Solution.dll
+D:\Hamiscopedia\Hamiscopedia\Problem-Solving\PS #0001 - Indexes of Subarray Sum\solution\bin\Debug\net9.0\Solution.pdb
+D:\Hamiscopedia\Hamiscopedia\Problem-Solving\PS #0001 - Indexes of Subarray Sum\solution\obj\Debug\net9.0\Solution.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hamiscopedia\Hamiscopedia\Problem-Solving\PS #0001 - Indexes of Subarray Sum\solution\obj\Debug\net9.0\Solution.AssemblyInfoInputs.cache
+D:\Hamiscopedia\Hamiscopedia\Problem-Solving\PS #0001 - Indexes of Subarray Sum\solution\obj\Debug\net9.0\Solution.AssemblyInfo.cs
+D:\Hamiscopedia\Hamiscopedia\Problem-Solving\PS #0001 - Indexes of Subarray Sum\solution\obj\Debug\net9.0\Solution.csproj.CoreCompileInputs.cache
+D:\Hamiscopedia\Hamiscopedia\Problem-Solving\PS #0001 - Indexes of Subarray Sum\solution\obj\Debug\net9.0\Solution.sourcelink.json
+D:\Hamiscopedia\Hamiscopedia\Problem-Solving\PS #0001 - Indexes of Subarray Sum\solution\obj\Debug\net9.0\Solution.dll
+D:\Hamiscopedia\Hamiscopedia\Problem-Solving\PS #0001 - Indexes of Subarray Sum\solution\obj\Debug\net9.0\refint\Solution.dll
+D:\Hamiscopedia\Hamiscopedia\Problem-Solving\PS #0001 - Indexes of Subarray Sum\solution\obj\Debug\net9.0\Solution.pdb
+D:\Hamiscopedia\Hamiscopedia\Problem-Solving\PS #0001 - Indexes of Subarray Sum\solution\obj\Debug\net9.0\Solution.genruntimeconfig.cache
+D:\Hamiscopedia\Hamiscopedia\Problem-Solving\PS #0001 - Indexes of Subarray Sum\solution\obj\Debug\net9.0\ref\Solution.dll
